@@ -1,6 +1,6 @@
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import reactLogo from "./assets/react.svg";
+import viteLogo from "/vite.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -15,10 +15,10 @@ function App() {
       </div>
       <h1>Vite + React</h1>
       <div className="card">
-        <p>Choo Choo! This is an example of a Vite + React app running on Railway.</p>
+        <p>Testing out vite react with Caddy on Railway</p>
       </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
